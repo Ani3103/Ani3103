@@ -19,6 +19,7 @@ Currently pursuing a **B.Tech in Electronics & Communication Engineering**, with
 
 ### RAG Document Query and Review System
 Academic Agent System is an AI-powered document intelligence platform designed to analyze academic and technical PDF documents using Retrieval-Augmented Generation (RAG).
+
 🔗 https://github.com/Ani3103/RAG-Document-Review-and-Query
 
 ### FastAPI Task Manager
